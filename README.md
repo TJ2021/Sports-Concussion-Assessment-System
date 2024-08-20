@@ -20,7 +20,7 @@ The Sports Concussion Assessment System is a console application designed to ass
 
 
 
-## Learning
+## Lessons Learned
 - Elicit software system requirements through user scenarios and diagrams.
 - Identify and define objects from provided scenarios.
 - Develop comprehensive class diagrams for identified objects.
