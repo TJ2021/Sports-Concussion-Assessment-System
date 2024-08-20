@@ -11,3 +11,11 @@ Usecase Diagram:
 
   <img width="731" alt="usecase_diagram" src="https://github.com/user-attachments/assets/999544c7-7669-4721-866a-1444bb89d54f">
 
+
+# Learning
+- Elicit software system requirements through user scenarios and diagrams.
+- Identify and define objects from provided scenarios.
+- Develop comprehensive class diagrams for identified objects.
+- Apply UML notation to create accurate class and use case diagrams.
+- Implement a functional application using Java.
+
