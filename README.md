@@ -10,6 +10,14 @@ Built With:
 Usecase Diagram:
 
   <img width="731" alt="usecase_diagram" src="https://github.com/user-attachments/assets/999544c7-7669-4721-866a-1444bb89d54f">
+  
+
+
+
+Class Diagram:
+
+![image](https://github.com/user-attachments/assets/73145c6f-8d34-48f9-9cd1-c512235099b3)
+
 
 
 # Learning
