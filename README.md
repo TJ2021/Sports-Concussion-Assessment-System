@@ -16,7 +16,7 @@ Usecase Diagram:
 Class Diagram:
 
 
-  <img width="469" alt="class_diagram" src="https://github.com/user-attachments/assets/40fa69a2-3ec5-4e81-9b9d-2b2341096a7a">
+  <img width="731" alt="class_diagram" src="https://github.com/user-attachments/assets/40fa69a2-3ec5-4e81-9b9d-2b2341096a7a">
 
 
 
