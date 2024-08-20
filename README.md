@@ -8,5 +8,6 @@ Built With:
 - Java
 
 Usecase Diagram:
+
   <img width="731" alt="usecase_diagram" src="https://github.com/user-attachments/assets/999544c7-7669-4721-866a-1444bb89d54f">
 
